@@ -28,7 +28,7 @@ const getCities = async () => {
           city.coords.lat
         }&lon=${city.coords.lng}&exclude={part}&appid=${
           import.meta.env.VITE_OPEN_WEATHER_API_KEY
-        }c&units=metric`
+        }&units=metric`
       )
     );
   });

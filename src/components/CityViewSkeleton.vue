@@ -21,6 +21,4 @@
 
 <script setup>
 import AnimatedPlaceholder from "./AnimatedPlaceholder.vue";
-
-console.log("CityViewSkeleton mounted");
 </script>
