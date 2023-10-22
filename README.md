@@ -23,16 +23,16 @@ Vue3 , Tailwind CSS
 - Create props use defineProps and use props use v-bind
 - Create event use $emit("event_name"), use event with v-on="" or @
 - Create a ref and bind it two-way to a component using v-model="ref_name"
-- "Teleport" to make standalone modal component
+- "<Teleport>" to make standalone modal component
 - Dynamic display with v-if="" and v-show=""
 - Loop an array with v-for=""
-- Use "slot" for injecting dynanmic template in component
+- Use "<slot>" for injecting dynanmic template in component
 - Fetch data in script then use it in template
 - Add environment variable use "VITE*" then use it like "import.meta.env.VITE*"
 - Create routes and navigate between pages use vue-router
 - Set and read params and query in routes
-- "Suspend" to add fall back to skeleton view when loading async view
-- Animate router using "Transition"
+- "<Suspend>" to add fall back to skeleton view when loading async view
+- Animate router using "<Transition>"
 
 ## Recommended IDE Setup
 
