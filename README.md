@@ -25,12 +25,12 @@ Vue3 , Tailwind CSS
 - Create a ref and bind it two-way to a component using v-model="<ref_name>".
 - Dynamic display with v-if=""
 - Loop an array with v-for=""
-- Use <slot> for injecting dynanmic template in component
+- Use slot for injecting dynanmic template in component
 - Fetch data in script then use it in template
 - Add environment variable use "VITE*" then use it like "import.meta.env.VITE*"
 - Create routes and navigate between pages use vue-router
 - Set and read params and query in routes
-- <Suspend> to add fall back to skeleton view when loading async view
+- Suspend to add fall back to skeleton view when loading async view
 - Animate router transition
 
 ## Recommended IDE Setup
