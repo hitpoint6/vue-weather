@@ -23,7 +23,7 @@ Vue3 , Tailwind CSS
 - Create props use defineProps and use props use v-bind
 - Create event use $emit(<event_name>), use event with v-on="" or @
 - Create a ref and bind it two-way to a component using v-model="<ref_name>".
-- Dynamic display with v-if=""
+- Dynamic display with v-if="" and v-show=""
 - Loop an array with v-for=""
 - Use slot for injecting dynanmic template in component
 - Fetch data in script then use it in template
